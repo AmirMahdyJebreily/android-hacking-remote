@@ -9,7 +9,7 @@ IConfiguration configuration = builder.Configuration;
 
 BotClient Telegram = new BotClient(
     botToken: configuration.GetSection("settings")["TOKEN"],
-    ignoreBotExceptions: false);
+    ignoreBotExceptions: true);
 
 builder.Services.AddControllers();
 
