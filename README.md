@@ -2,9 +2,9 @@
 <p>Hacking Android devices connected to Telegram bot using Websockets(SignalR) ,Java Android | Using this tool, you can manage the target Android device through the Telegram bot</p>
 
 <p align="center">
-    <img src="https://github.com/mr-mhrb/android-hacking-remote/blob/main/screenshots/target_panel.png" width="200" alt="accessibility text">
-    <img src="https://github.com/mr-mhrb/android-hacking-remote/blob/main/screenshots/target_panel.png" width="200" alt="accessibility text">
-    <img src="https://github.com/mr-mhrb/android-hacking-remote/blob/main/screenshots/target_panel.png" width="200" alt="accessibility text">
+    <img src="https://github.com/mr-mhrb/android-hacking-remote/blob/main/screenshots/broadcast_panel.png" width="230" alt="accessibility text">
+    <img src="https://github.com/mr-mhrb/android-hacking-remote/blob/main/screenshots/target_panel.png" width="230" alt="accessibility text">
+
   
 </p>
 
