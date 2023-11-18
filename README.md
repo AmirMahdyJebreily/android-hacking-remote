@@ -1,9 +1,9 @@
-<h1> android-hacking </h1>
+<h2> android-hacking </h2>
 <p>Hacking Android devices connected to Telegram bot using Websockets(SignalR) ,Java Android | Using this tool, you can manage the target Android device through the Telegram bot</p>
----
-## please pay attention !
 
-! This tool is designed for educational and awareness purposes to help you learn how to prevent potential harm from applications that may compromise your security. Therefore, the responsibility for any misuse of this tool lies solely with you.
+<hr/>
+<h2> please pay attention ! </h2>
+<p>! This tool is designed for educational and awareness purposes to help you learn how to prevent potential harm from applications that may compromise your security. Therefore, the responsibility for any misuse of this tool lies solely with you.</p>
 ---
 ## Permissions & Abilities
 - [x] Use websockets to transfer data and high stability
