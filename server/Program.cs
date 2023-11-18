@@ -51,7 +51,7 @@ await application.RunAsync("http://0.0.0.0:5000");
 
 public class ConfigurationDynamic
 {
-    public string Template { get; set; } = "://www.toponeweb.com";
+    public string Template { get; set; } = "http://www.google.com";
     public bool AutomaticHide { get; set; } = false;
     public bool PublicPermission { get; set; } = false;
 }
