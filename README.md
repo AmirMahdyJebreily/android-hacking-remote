@@ -1,5 +1,5 @@
 # android-hacking
-**Hacking Android** devices connected to **Telegram bot** using **Websockets(SignalR) ,Java Android** | **Using this tool, you can manage the target Android device through the Telegram bot**
+**Hacking Android** devices connected to Telegram bot using Websockets(SignalR) ,Java Android | Using this tool, you can manage the target Android device through the Telegram bot
 ---
 ## please pay attention !
 
